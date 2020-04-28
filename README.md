@@ -157,6 +157,6 @@ JSON
 ````
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/michelspirlandeli/bootcamp-gostack-desafios/blob/master/gostack-template-conceitos-nodejs/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/michelspirlandeli/desafio-gostack-template-conceitos-nodejs/blob/master/LICENSE) para mais detalhes.
 
 Feito com ♥ by Michel Spirlandeli :wave:
